@@ -1,0 +1,14 @@
+# личное
+local/
+.env
+
+# окружение и служебное
+venv/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# данные и артефакты модели
+datasets/
+*.joblib
